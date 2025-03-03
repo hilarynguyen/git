@@ -6,4 +6,5 @@ git checkout main
 git checkout main
 git checkout part2
 git checkout part 1
+git checkout part 4
 git checkout part 3
